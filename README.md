@@ -2,11 +2,13 @@
 
 [![Build Status](https://travis-ci.org/zhongsp/TypeScript.svg?branch=master)](https://travis-ci.org/zhongsp/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-<img src="./misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 2.9 (May 31, 2018)](https://blogs.msdn.microsoft.com/typescript/2018/05/31/announcing-typescript-2-9/)
+<img src="./misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 3.0 (July 30, 2018)](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/)
+|
+[版本发布说明](./doc/release-notes/TypeScript%203.0.md)
 
-TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript.
+:heavy_check_mark: TypeScript语言用于大规模应用的JavaScript开发。  :heavy_check_mark: TypeScript支持类型，是JavaScript的超集且可以编译成纯JavaScript代码。  :heavy_check_mark: TypeScript兼容所有浏览器，所有宿主环境，所有操作系统。  :heavy_check_mark: TypeScript是开源的。
 
-请阅读 :book: [TypeScript Handbook 中文版 - Published with GitBook](http://zhongsp.gitbooks.io/typescript-handbook/content/)
+:book: [在GitBook网站上阅读本手册](http://zhongsp.gitbooks.io/typescript-handbook/content/)  :arrow_down: [下载本手册 PDF 版](https://legacy.gitbook.com/download/pdf/book/zhongsp/typescript-handbook)  :arrow_down: [下载本手册 Mobi 版](https://legacy.gitbook.com/download/mobi/book/zhongsp/typescript-handbook)  :arrow_down: [下载本手册 ePub 版](https://legacy.gitbook.com/download/epub/book/zhongsp/typescript-handbook)
 
 :link: [一大波新的快速开始指南：React，Angular，Nodejs，ASP.NET Core，React Native，Vue，Glimmer，WeChat，Dojo2，Knockout等](./doc/quick-start/README.md)
 
@@ -57,8 +59,10 @@ TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript.
   * [使用](./doc/handbook/declaration%20files/Consumption.md)
 * [工程配置](./doc/handbook/tsconfig.json.md)
   * [tsconfig.json](./doc/handbook/tsconfig.json.md)
+  * [工程引用](./doc/handbook/Project%20References.md)
   * [NPM包的类型](./doc/handbook/Typings%20for%20NPM%20Packages.md)
   * [编译选项](./doc/handbook/Compiler%20Options.md)
+  * [配置 Watch](./doc/handbook/Configuring%20Watch.md)
   * [在MSBuild里使用编译选项](./doc/handbook/Compiler%20Options%20in%20MSBuild.md)
   * [与其它构建工具整合](./doc/handbook/Integrating%20with%20Build%20Tools.md)
   * [使用TypeScript的每日构建版本](./doc/handbook/Nightly%20Builds.md)
@@ -71,6 +75,7 @@ TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript.
   * [架构概述](./doc/wiki/Architectural-Overview.md)
   * [发展路线图](./doc/wiki/Roadmap.md)
 * [新增功能](./doc/release-notes/README.md)
+  * [TypeScript 3.0](./doc/release-notes/TypeScript%203.0.md)
   * [TypeScript 2.9](./doc/release-notes/TypeScript%202.9.md)
   * [TypeScript 2.8](./doc/release-notes/TypeScript%202.8.md)
   * [TypeScript 2.7](./doc/release-notes/TypeScript%202.7.md)
